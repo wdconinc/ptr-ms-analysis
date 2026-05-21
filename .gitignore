@@ -1,0 +1,21 @@
+# Data files (too large / not for sharing)
+*.h5
+*.hdf5
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor
+*.code-workspace
+.vscode/
+
+# Temporary / scratch peak lists (named outputs are committed)
+peak_list.csv
